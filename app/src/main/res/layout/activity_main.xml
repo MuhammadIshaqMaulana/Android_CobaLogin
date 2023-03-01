@@ -25,6 +25,16 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
         android:text="XXXXXXXXXXX"
+        android:textSize="30dp"
+
+        android:textAlignment="center" />
+
+    <EditText
+        android:id="@+id/et_yyy"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="YYYYYYYYYYYYYYYYYYYYYYYYYY"
         android:textSize="48dp"
 
         android:textAlignment="center" />
